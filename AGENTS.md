@@ -46,5 +46,6 @@
 ## 技術
 
 - Next.js App Router、TypeScript、Tailwind CSS、静的エクスポート
-- `NEXT_PUBLIC_BASE_PATH` で basePath を切り替える。未設定なら空
+- GitHub Pages の公開URLは `https://nihon-sangyoui-organization.github.io/sangyoui-navi/`
+- GitHub Pages の basePath は `/sangyoui-navi`。`NEXT_PUBLIC_BASE_PATH` で上書き。未設定かつローカルなら空
 - アカデミーURLは `src/lib/site.ts` の `academyUrl`（当面はプレースホルダ）

@@ -4,6 +4,7 @@
 運営: 日本産業医機構
 
 GitHub: https://github.com/nihon-sangyoui-organization/sangyoui-navi
+公開: https://nihon-sangyoui-organization.github.io/sangyoui-navi/
 
 ## 構成
 
@@ -32,3 +33,8 @@ GitHub: https://github.com/nihon-sangyoui-organization/sangyoui-navi
 ```bash
 npm install
 npm run dev
+```
+
+ローカルは `http://localhost:3000` です。basePath は付きません。
+
+`main` への Push で GitHub Pages にデプロイされます。初回だけ、リポジトリの Settings → Pages → Source を **GitHub Actions** にしてください。
