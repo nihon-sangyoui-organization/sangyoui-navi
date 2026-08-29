@@ -3,7 +3,7 @@ export const site = {
   tagline: "産業保健の情報拠点",
   description:
     "産業保健の実務情報を、企業と産業医それぞれに分けて整理する中立の情報拠点です。",
-  academyUrl: "https://example.com/academy",
+  academyUrl: "https://doctors-concierge.com/lp/op_ws.html",
   academyName: "産業医アカデミー",
 } as const;
 
