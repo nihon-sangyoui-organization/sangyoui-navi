@@ -7,12 +7,12 @@ export function SiteFooter() {
       <div className="mx-auto max-w-5xl px-4 py-10 sm:px-6">
         <p className="font-serif text-navy-deep">{site.name}</p>
         <p className="mt-2 max-w-xl text-sm leading-relaxed text-muted">
-          産業保健の実務情報を、企業と産業医に分けて置く情報拠点です。法令の解釈や個別事案の判断は、一次情報と所轄機関・専門家の確認を前提とします。
+          選任、面談、復職、メンタルヘルス、長時間労働、衛生委員会まで。担当者と産業医が、実務で迷ったときに使う情報をまとめています。
         </p>
         <ul className="mt-6 flex flex-wrap gap-x-5 gap-y-2 text-sm text-navy">
           <li>
             <Link href="/for-company/" className="hover:underline">
-              企業向け
+              企業・団体の人事労務担当者向け
             </Link>
           </li>
           <li>
