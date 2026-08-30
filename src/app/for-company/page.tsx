@@ -18,7 +18,7 @@ export default function ForCompanyPage() {
       <p className="text-xs tracking-[0.16em] text-muted">企業の担当者の方へ</p>
       <h1 className="mt-2 font-serif text-3xl text-navy-deep">企業向け</h1>
       <p className="mt-4 max-w-2xl text-sm leading-relaxed text-muted">
-        労働安全衛生の義務と手順を、事業場の担当者が確認できる形で置いています。産業医アカデミーの案内はありません。
+        労働安全衛生の義務と手順を、事業場の担当者が確認できる形でお伝えします。
       </p>
 
       <div className="mt-10 grid gap-10 lg:grid-cols-[1fr_18rem]">
