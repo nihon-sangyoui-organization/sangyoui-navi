@@ -23,10 +23,10 @@ export default function HomePage() {
 
       <div className="mt-12 grid gap-6 md:grid-cols-2">
         <section className="border border-line p-6 sm:p-8">
-          <p className="text-xs tracking-[0.16em] text-muted">企業の担当者の方へ</p>
-          <h2 className="mt-2 font-serif text-2xl text-navy-deep">企業向け</h2>
+          <p className="text-xs tracking-[0.16em] text-muted">企業の人事労務担当者の方へ</p>
+          <h2 className="mt-2 font-serif text-2xl text-navy-deep">人事・労務のための産業保健</h2>
           <p className="mt-3 text-sm leading-relaxed text-muted">
-            産業医の選任、ストレスチェック、休職・復職など、安全衛生の実務を整理します。
+            産業医の選任、ストレスチェック、休職・復職など、安全衛生の実務、社員研修などについてお伝えします。
           </p>
           <Link
             href="/for-company/"
