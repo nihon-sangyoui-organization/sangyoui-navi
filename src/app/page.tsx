@@ -12,9 +12,9 @@ export default function HomePage() {
     <div className="mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-16">
       <p className="text-xs tracking-[0.2em] text-muted">{site.name}</p>
       <h1 className="mt-3 max-w-2xl font-serif text-3xl leading-snug text-navy-deep sm:text-4xl">
-        産業保健の実務に必要な情報を、
+        産業保健の重要な情報を、
         <br />
-        企業と産業医のそれぞれにお届けします。
+        企業と産業医にそれぞれお届けします。
       </h1>
       <p className="mt-5 max-w-2xl text-[0.95rem] leading-relaxed text-muted">
         {site.description}
