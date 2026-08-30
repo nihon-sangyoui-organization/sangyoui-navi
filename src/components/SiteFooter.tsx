@@ -12,7 +12,7 @@ export function SiteFooter() {
         <ul className="mt-6 flex flex-wrap gap-x-5 gap-y-2 text-sm text-navy">
           <li>
             <Link href="/for-company/" className="hover:underline">
-              企業・団体の人事労務担当者向け
+              企業向け
             </Link>
           </li>
           <li>
