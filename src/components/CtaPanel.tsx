@@ -16,7 +16,7 @@ export function CtaPanel(props: CompanyCta | DoctorCta) {
         <p className="text-xs tracking-[0.14em] text-muted">企業の担当者の方へ</p>
         <p className="mt-1 font-serif text-lg text-navy-deep">紹介相談・体制づくりの相談</p>
         <p className="mt-2 text-sm leading-relaxed text-muted">
-          産業医の選任や、衛生管理体制の整え方について相談できます。売り込みではなく、まず現状の整理から始めます。
+          産業医の選任や、衛生管理体制の整え方について相談できます。まず、現状の整理から始めます。
         </p>
         <Link
           href="/for-company/consult/"
@@ -34,7 +34,7 @@ export function CtaPanel(props: CompanyCta | DoctorCta) {
         <p className="text-xs tracking-[0.14em] text-muted">産業医の方へ</p>
         <p className="mt-1 font-serif text-lg text-forest">実務の学び</p>
         <p className="mt-2 text-sm leading-relaxed text-muted">
-          面接指導や契約の考え方など、産業医側の実務を別途まとめています。価格や入学の案内は大きな扱いをしません。
+          面接指導や契約の考え方など、産業医としての実務や収入に直結するスキルアップを別途まとめています。
         </p>
         <Link
           href="/for-doctors/learn/"
@@ -51,13 +51,13 @@ export function CtaPanel(props: CompanyCta | DoctorCta) {
       <p className="text-xs tracking-[0.14em] text-muted">産業医の方へ</p>
       <p className="mt-1 font-serif text-lg text-forest">隣接する実務記事</p>
       <p className="mt-2 text-sm leading-relaxed text-muted">
-        契約、面接指導、嘱託の始め方などは産業医向けハブにまとめています。紹介サービスの案内はありません。
+        企業との契約方法、面接指導、嘱託産業医の業務の始め方などは産業医向け案内にまとめています。
       </p>
       <Link
         href="/for-doctors/"
         className="mt-4 inline-flex border border-forest px-4 py-2 text-sm text-forest hover:bg-white"
       >
-        産業医向けハブへ
+        産業医向け案内へ
       </Link>
     </aside>
   );
